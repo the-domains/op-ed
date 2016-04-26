@@ -1,0 +1,28 @@
+name: Op-Ed
+favicon: null
+layout_spectrum: 0.22402819897979498
+typography_spectrum: 0.15447596926242113
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.06056460947729647
+  lightness: 0.9777757907286286
+  saturation: 0.17268882365897298
+  rhythmicContrast: 0.7564020315185189
+purpose: []
